@@ -24,4 +24,4 @@ This section contains examples of prompts and responses with OpenAI's Code Inter
 All input and output data used in the examples are stored in the [Data](data) folder.
 
 ## Discussion
-Do you believe AI will significantly shape the future of data science? Have you used the Code Interpreter, and what were your results? Please share your experiences and opinions in the comments below. Let’s start a conversation about the exciting intersection of AI and data science.
+Do you believe AI will significantly shape the future of data science? Have you used the Code Interpreter, and what were your results? Please share your experiences and opinions in the comments on [Medium](https://medium.com/@adri.perse/unleashing-the-power-of-ai-in-data-science-a-deep-dive-into-openais-code-interpreter-edbac26decda). Let’s start a conversation about the exciting intersection of AI and data science.
