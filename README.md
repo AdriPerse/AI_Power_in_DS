@@ -1,6 +1,6 @@
 # Unleashing the Power of AI in Data Science: A Deep Dive into OpenAI’s Code Interpreter
 
-![Header Image](link-to-your-image)
+![Header Image](data/output/Patchwork.jpg)
 
 This repository contains examples of prompts and responses with OpenAI's Code Interpreter, as showcased in the Medium article [Unleashing the Power of AI in Data Science: A Deep Dive into OpenAI’s Code Interpreter](https://medium.com/@adri.perse/unleashing-the-power-of-ai-in-data-science-a-deep-dive-into-openais-code-interpreter-edbac26decda).
 
