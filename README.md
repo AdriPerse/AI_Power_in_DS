@@ -14,8 +14,8 @@ In the rapidly evolving landscape of artificial intelligence (AI), OpenAI’s Co
 ## Examples
 This section contains examples of prompts and responses with OpenAI's Code Interpreter. Each example is provided as an IPython notebook:
 
-- [Matrix GIF Notebook](link-to-matrix-gif-notebook)
-- [Video GIF Notebook](link-to-video-gif-notebook)
+- [Matrix GIF Notebook](Matrix_Gif.ipynb)
+- [Video GIF Notebook](Video_gif.ipynb)
 - [More examples...](link-to-more-examples)
 
 ## Data
